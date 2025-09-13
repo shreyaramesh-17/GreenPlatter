@@ -1,0 +1,63 @@
+{
+  "DayOfWeek": [
+    "Friday",
+    "Monday",
+    "Saturday",
+    "Sunday",
+    "Thursday",
+    "Tuesday",
+    "Wednesday"
+  ],
+  "Event": [
+    "Conference",
+    "Corporate Party",
+    "Festival",
+    "Unknown",
+    "Wedding"
+  ],
+  "Weather": [
+    "Cloudy",
+    "Cold",
+    "Hot",
+    "Rainy",
+    "Sunny"
+  ],
+  "Dish": [
+    "Aloo Paratha",
+    "Avocado Toast",
+    "Bajra Khichdi",
+    "Beetroot Salad",
+    "Bruschetta",
+    "Butter Naan",
+    "Chicken Biryani",
+    "Chicken Curry",
+    "Chole Bhature",
+    "Dal Tadka",
+    "Falafel Wrap",
+    "Fried Rice",
+    "Gnocchi",
+    "Grilled Fish",
+    "Hakka Noodles",
+    "Idli Sambar",
+    "Kale Smoothie",
+    "Masala Dosa",
+    "Miso Soup",
+    "Mutton Curry",
+    "Paella",
+    "Paneer Butter Masala",
+    "Paneer Tikka",
+    "Pasta Alfredo",
+    "Pav Bhaji",
+    "Pizza Margherita",
+    "Pumpkin Soup",
+    "Quinoa Upma",
+    "Ragi Mudde",
+    "Ratatouille",
+    "Sushi Rolls",
+    "Tofu Curry",
+    "Veg Biryani",
+    "Veg Manchurian",
+    "Veg Pulao",
+    "Zucchini Pasta"
+  ]
+}
