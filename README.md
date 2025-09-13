@@ -45,7 +45,7 @@ bash
 streamlit run app.py
 
 ## 📁 File Structure  
-bash
+```bash
 GreenPlatter/
 ├── app.py                           # Streamlit application
 ├── trian.ipynb                      # Model training notebook
@@ -53,7 +53,7 @@ GreenPlatter/
 ├── greenplatter_pipeline.joblib     # Trained model (generated)
 ├── greenplatter_categories.json     # Category metadata (generated)
 └── README.md                        # Project documentation
-
+```
 ## 📜 License  
 This project is open source and available under the MIT License.  
 
